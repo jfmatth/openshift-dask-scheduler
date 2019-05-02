@@ -1,0 +1,1 @@
+dask-scheduler --host $HOSTNAME
